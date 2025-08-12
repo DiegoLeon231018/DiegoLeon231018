@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: 
-          python DiegoLeon231018/.github/scripts/update_readme.py
+          python .github/scripts/update_readme.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
