@@ -68,7 +68,7 @@
 
 ## 🆕 Últimos repos
 <!-- LATEST-REPOS:START -->
-- <a href="https://github.com/DiegoLeon231018/llm-bq-rag"><b>llm-bq-rag</b></a> — Proyecto de LLM aplicando RAG para responder respuestas en función a los datos de nuestra BD ⭐0
+Aún no hay repositorios publicados. Sube tu primer proyecto y este bloque se actualizará automáticamente.
 <!-- LATEST-REPOS:END -->
 
 ---
